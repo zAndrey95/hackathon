@@ -1,0 +1,15 @@
+export enum EGameStage {
+  NOT_STARTED = "NOT_STARTED",
+  RULES = "RULES",
+  WAITING = "WAITING",
+  STARTED = "STARTED",
+  FINISHED = "FINISHED",
+  ENDED = "ENDED",
+}
+
+export enum ERole {
+  DEFAULT = "DEFAULT",
+  DEALER = "DEALER",
+  PLAYER = "PLAYER",
+  SPECTATOR = "SPECTATOR",
+}
