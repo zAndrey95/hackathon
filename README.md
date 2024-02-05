@@ -1,7 +1,7 @@
 # Hackathon
 
 Card game with utilizing Pyth’s Entropy (RNG) and minting card combinations using Liteflow.
-Smart Contracts [text]([https://openai.com/](https://github.com/zAndrey95/hackathon-sc))
+Smart Contracts [text](https://github.com/zAndrey95/hackathon-sc)
 
 ## Keys (.env)
 
