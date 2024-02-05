@@ -2,7 +2,7 @@
 
 Card game with utilizing Pyth’s Entropy (RNG) and minting card combinations using Liteflow.
 
-## Keys
+## Keys (.env)
 
 1. apiKey - please get your personal key in [text](https://openai.com/)
 2. GAME_CONTRACT - you Smart Contract with card game. Example: 0x5622a1Fe9C994844E6A78D2abf6e9b8834b175E3
